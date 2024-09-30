@@ -28,9 +28,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-[Imgur](https://imgur.com/a/UUx8Koi.gif)
+[Imgur](https://imgur.com/IZjLewZ)
 
-<img src='https://imgur.com/a/UUx8Koi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://imgur.com/IZjLewZ.gif)
+
+
 
 
 ## Notes
