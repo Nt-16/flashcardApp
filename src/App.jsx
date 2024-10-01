@@ -17,7 +17,7 @@ const flashcards = [
   { 
     question: "What is the largest mammal on Earth?", 
     answer: "The blue whale, which can grow up to 100 feet long.", 
-    image: "https://www.antarctica.gov.au/site/assets/files/45670/ia40342.1200x630.jpg"
+    image: "https://static.wikia.nocookie.net/wildkratts/images/5/5c/Blue_Whale_RL.PNG/revision/latest?cb=20231215203017"
   },
   { 
     question: "Which animal is known for having the best memory?", 
